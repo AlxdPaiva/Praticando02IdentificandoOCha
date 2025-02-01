@@ -19,7 +19,11 @@ public class Praticando02IdentificandoOCha {
         // TODO code application logic here
         Scanner teclado = new Scanner (System.in);
         int T = teclado.nextInt();
-        int A = teclado.nextInt(); int B = teclado.nextInt(); int C = teclado.nextInt(); int D = teclado.nextInt(); int E = teclado.nextInt();
+        int A = teclado.nextInt(); 
+        int B = teclado.nextInt(); 
+        int C = teclado.nextInt(); 
+        int D = teclado.nextInt(); 
+        int E = teclado.nextInt();
         //System.out.println(T);
         int conc = 0;
         if (A == T) conc++;
